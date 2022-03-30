@@ -1,0 +1,205 @@
+.de_container {
+	margin-top: 20px;
+}
+
+.crumb_wrap {
+	height: 25px;
+}
+
+.preview_wrap {
+	width: 400px;
+	height: 590px;
+}
+
+.itemInfo_wrap {
+	width: 718px;
+}
+
+.preview_M4 {
+	width: 398px;
+	height: 600px;
+}
+
+.sku_name {
+	font-size: 24px;
+	height: 30px;
+	font-weight: 700;
+}
+
+.summary_price {
+	margin-top: 20px;
+	padding: 10px 0;
+	background-color: #fee9eb;
+}
+
+.summary_price dt {
+	margin-top: 3px;
+	margin-bottom: 3px;
+	font-size: 18px;
+}
+
+.summary dt,
+.summary dd {
+	float: left;
+}
+
+.summary dt {
+	width: 60px;
+	padding-left: 10px;
+	line-height: 36px;
+}
+
+.summary dl {
+	overflow: hidden;
+}
+
+.price {
+	font-size: 30px;
+	color: #E75424;
+}
+
+.choose_standard {
+	margin-top: 20px;
+}
+
+.choose_standard dt {
+	font-size: 18px;
+	margin-right: 1000px;
+	margin-top: 15px;
+	margin-bottom: 5px;
+}
+
+.choose_standard a {
+	width: 100px;
+	height: 41px;
+	background-color: #f7f7f7;
+	border: 1px solid #ededed;
+	display: inline-block;
+	text-align: center;
+	line-height: 41px;
+	margin-top: 10px;
+	font-size: 16px;
+	margin-left: 10px;
+}
+
+.choose_standard a.current {
+	border-color: #E75424;
+}
+
+.choose_standard dd {
+	display: inline-block;
+}
+
+.choose_application a {
+	width: 150px;
+	height: 41px;
+	background-color: #f7f7f7;
+	border: 1px solid #ededed;
+	display: inline-block;
+	text-align: center;
+	line-height: 41px;
+	margin-top: 10px;
+	font-size: 16px;
+	margin-left: 10px;
+}
+
+.choose_application {
+	margin-top: 20px;
+}
+
+.choose_application dt {
+	font-size: 18px;
+	margin-top: 15px;
+	margin-bottom: 5px;
+}
+
+.choose_application a.current {
+	border-color: #E75424;
+}
+
+.quantity {
+	position: relative;
+	float: left;
+	width: 50px;
+	height: 46px;
+	background-color: skyblue;
+}
+
+.add_cart {
+	float: left;
+	width: 200px;
+	height: 46px;
+	background-color: #E75424;
+	text-align: center;
+	line-height: 46px;
+	font-size: 24px;
+	color: #fff;
+	margin-left: 10px;
+}
+
+.choose_btn {
+	margin-top: 80px;
+}
+
+.quantity input {
+	width: 33px;
+	height: 44px;
+	border: 1px solid #ccc;
+	text-align: center;
+}
+
+.add,
+.minus {
+	position: absolute;
+	width: 15px;
+	height: 22px;
+	border: 1px solid #ccc;
+	background-color: #f1f1f1;
+	text-align: center;
+	line-height: 22px;
+	right: 0;
+}
+
+.add {
+	top: 0;
+}
+
+.minus {
+	bottom: 0;
+	cursor: not-allowed;
+}
+
+.detail_tab_list {
+	height: 39px;
+	border: 1px solid #ccc;
+	background-color: #f1f1f1;
+	margin-top: 20px;
+}
+
+.detail_tab_list li {
+	float: left;
+	height: 39px;
+	line-height: 39px;
+	padding: 0 20px;
+	text-align: center;
+	cursor: pointer;
+}
+
+.detail_tab_list .current {
+	background-color: #E75424;
+	color: #fff;
+}
+
+.item1 {
+	margin-left: 400px;
+	margin-top: 20px;
+}
+
+.item2 {
+	margin-left: 200px;
+	margin-top: 20px;
+}
+
+.FR8 {
+	width: 150px;
+}
